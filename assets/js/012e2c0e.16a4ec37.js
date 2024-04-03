@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_learn=self.webpackChunkdocusaurus_learn||[]).push([[961],{8333:s=>{s.exports=JSON.parse('{"permalink":"/docusaurus-learn/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
